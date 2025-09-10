@@ -37,14 +37,24 @@ Retailers collect large amounts of sales data, but it’s often underutilized. T
 ## 3. Data Visualization (Tableau Dashboard)
 
 - Line Chart: Monthly sales trends by product category.
+<img width="1045" height="699" alt="Screenshot 2025-09-10 at 4 12 24 AM" src="https://github.com/user-attachments/assets/35c2bf7f-6bc9-4e5d-8bce-96e856f161a0" />
+
 
 - Stacked Bar: Category sales share per month.
+<img width="972" height="698" alt="Screenshot 2025-09-10 at 4 13 13 AM" src="https://github.com/user-attachments/assets/80688795-ea00-4c5f-8a6e-c27a59de4d63" />
+
 
 - Bar Chart: Sales by gender.
+<img width="969" height="692" alt="Screenshot 2025-09-10 at 4 13 30 AM" src="https://github.com/user-attachments/assets/a1d87492-8cf1-4132-8383-71855249d798" />
+
 
 - Pie Chart: Sales by age group.
+<img width="691" height="516" alt="Screenshot 2025-09-10 at 4 14 07 AM" src="https://github.com/user-attachments/assets/addc9794-f92b-4805-b031-2fa4cdef1ee2" />
 
-- KPI Cards: Total sales, total orders, total customers.
+
+- KPI Cards: Total sales and total orders.
+<img width="115" height="135" alt="Screenshot 2025-09-10 at 4 17 25 AM" src="https://github.com/user-attachments/assets/f49ae1e0-18f3-42fa-8cfd-3cadb0cbf971" />
+
 
 # Skills & Tools Used
 
