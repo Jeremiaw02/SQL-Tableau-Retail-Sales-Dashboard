@@ -1,17 +1,17 @@
 # SQL-Tableau-Retail-Sales-Dashboard
-Cleaned and transformed retail transaction data in MySQL, built monthly sales and customer demographic summaries, and visualized revenue trends, category performance, and KPIs in an interactive Tableau dashboard.
+Cleaned and transformed retail transaction data in MySQL, built monthly sales and customer demographic summaries, and visualized sales trends, category performance, and KPIs in an interactive Tableau dashboard.
 
 # Executive Summary
-This project demonstrates end-to-end data analytics skills by transforming raw retail sales data into actionable insights. Using SQL (MySQL) for data cleaning, transformation, and aggregation, and Tableau for interactive dashboards, I built a business-ready visualization that highlights revenue trends, customer demographics, and product category performance.
+This project demonstrates end-to-end data analytics skills by transforming raw retail sales data into actionable insights. Using SQL (MySQL) for data cleaning, transformation, and aggregation, and Tableau for interactive dashboards, I built a business-ready visualization that highlights sales trends, customer demographics, and product category performance.
 
 # Business Problem
-Retailers collect vast amounts of sales data, but it’s often underutilized. The main challenges were:
+Retailers collect large amounts of sales data, but it’s often underutilized. The main challenges were:
 
-- Tracking monthly revenue trends to identify growth or decline.
+- Tracking monthly sales trends to identify growth or decline. 
 
 - Determining top-performing product categories.
 
-- Understanding customer demographics (gender and age) driving sales.
+- Understanding how customer demographics (gender and age) drive sales.
 
 - Presenting findings in a clear, interactive dashboard for decision-making.
 
@@ -28,23 +28,23 @@ Retailers collect vast amounts of sales data, but it’s often underutilized. Th
 
 ## 2. Data Analysis (SQL Queries)
 
-- Computed revenue by month and category.
+- Computed sales by month and category.
 
 - Grouped customers by gender and age group to analyze spending.
 
-- Designed KPI queries for total revenue, total orders, and customer counts.
+- Designed KPI queries for total sales, total orders, and customer counts.
 
 ## 3. Data Visualization (Tableau Dashboard)
 
-- Line Chart: Monthly revenue trends by product category.
+- Line Chart: Monthly sales trends by product category.
 
-- Stacked Bar: Category revenue share per month.
+- Stacked Bar: Category sales share per month.
 
 - Bar Chart: Sales by gender.
 
 - Pie Chart: Sales by age group.
 
-- KPI Cards: Total revenue, total orders, total customers.
+- KPI Cards: Total sales, total orders, total customers.
 
 # Skills & Tools Used
 
@@ -58,9 +58,9 @@ Retailers collect vast amounts of sales data, but it’s often underutilized. Th
 
 # Results & Insights
 
-- Monthly Trends: Clear fluctuations across product categories, with Electronics leading overall revenue.
+- Monthly Trends: Clear fluctuations across product categories, with Electronics leading overall sales.
 
-- Category Performance: Electronics dominated revenue share; Clothing was variable; Beauty showed steady, smaller contribution.
+- Category Performance: Electronics dominated sales share; Clothing was variable; Beauty showed steady, smaller contribution.
 
 - Gender Split: Females slightly outspent males overall, though transaction counts were nearly equal.
 
@@ -70,9 +70,9 @@ Retailers collect vast amounts of sales data, but it’s often underutilized. Th
 
 - Prioritize Electronics: Continue promotions and bundling strategies to leverage its dominance.
 
-- Target high-value demographics: Focus marketing on 26–35 and 51+ age groups for maximum ROI.
+- Target high-value demographics: Focus marketing on 26–35 and 51+ age groups for maximum sales.
 
-- Balanced gender strategies: Both genders buy at similar rates — campaigns should remain inclusive.
+- Balanced gender strategies: Both genders buy at similar rates, advertising campaigns should remain inclusive.
 
 - Expand Beauty sales: Introduce loyalty or subscription models to grow this steady but smaller category.
 
