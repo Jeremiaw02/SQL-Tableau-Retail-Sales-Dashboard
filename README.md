@@ -32,7 +32,7 @@ Retailers collect large amounts of sales data, but it’s often underutilized. T
 
 - Grouped customers by gender and age group to analyze spending.
 
-- Designed KPI queries for total sales, total orders, and customer counts.
+- Designed KPI queries for total sales and total orders.
 
 ## 3. Data Visualization (Tableau Dashboard)
 
